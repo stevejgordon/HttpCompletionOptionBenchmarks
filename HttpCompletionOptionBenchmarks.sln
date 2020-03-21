@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpCompletionOptionBenchmarks", "HttpCompletionOptionBenchmarks\HttpCompletionOptionBenchmarks.csproj", "{8F2CB78A-8DFB-457E-99C3-CB7F2770A05A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleApi", "SampleApi\SampleApi.csproj", "{F9CA6CBC-2714-4E42-8AD2-135CBC60AC72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F2CB78A-8DFB-457E-99C3-CB7F2770A05A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F2CB78A-8DFB-457E-99C3-CB7F2770A05A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F2CB78A-8DFB-457E-99C3-CB7F2770A05A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F2CB78A-8DFB-457E-99C3-CB7F2770A05A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9CA6CBC-2714-4E42-8AD2-135CBC60AC72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9CA6CBC-2714-4E42-8AD2-135CBC60AC72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9CA6CBC-2714-4E42-8AD2-135CBC60AC72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9CA6CBC-2714-4E42-8AD2-135CBC60AC72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58C5E277-D300-4E1D-91CE-0740D7FF80D4}
+	EndGlobalSection
+EndGlobal
